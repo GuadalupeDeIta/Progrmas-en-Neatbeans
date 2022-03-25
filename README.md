@@ -1,2 +1,2 @@
-# Progrmas-en-Neatbeans
+# Programas-en-Neatbeans
 Neatbeans 
